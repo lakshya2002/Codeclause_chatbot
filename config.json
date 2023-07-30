@@ -1,5 +1,0 @@
-{
-    "pipeline":"tensorflow_embedding",
-    "path":"G:/Code_clause/Chatbot/models/nlu",
-    "data":"G:/Code_clause/Chatbot/data/intent.json"
-   }
